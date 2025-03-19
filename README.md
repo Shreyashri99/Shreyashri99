@@ -44,6 +44,6 @@ Designed ETL workflows processing 1TB+ data using Databricks and Azure
 
 🚀 Let’s Connect!
 📩 Email: athani.sh@northeastern.edu
-🔗 LinkedIn: linkedin.com/in/shreyashri-athani-087407160
-🌐 GitHub: github.com/shreyashri4120
+🔗 LinkedIn: https://www.linkedin.com/in/shreyashri-athani-087407160/
+🌐 GitHub: https://github.com/Shreyashri99
 
