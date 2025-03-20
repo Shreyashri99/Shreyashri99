@@ -30,7 +30,7 @@ Designed ETL workflows processing 1TB+ data using Databricks and Azure
 
 📊 PromoVision – Analyzed 3 years of marketing and sales data to derive actionable insights on ROI.
 
-📑 FinRag – Developed a Retrieval-Augmented Generation (RAG) chatbot for financial document analysis.
+📑 UniQbot – Developed a Retrieval-Augmented Generation (RAG) chatbot for OGS queries.
 
 
 # 🏆 Achievements:
