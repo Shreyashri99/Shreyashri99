@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # Shreyashri Vishwanath Athani
-📊 Love numbers | Data Scientist | MLOps Enthusiast | Business Intelligence | NLP 
+📊 Love numbers | Data analytics | Business Intelligence | IT Audit
 
 🔍 Passionate about transforming data into actionable insights, I specialize in data science, machine learning, and MLOps. With a background in predictive modeling, big data processing, and cloud-based analytics, I thrive at the intersection of AI and business intelligence.
 
