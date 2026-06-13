@@ -9,7 +9,7 @@
 
 ✔ Develop scalable ML models for forecasting and optimization (Python, PyTorch, TensorFlow)
 
-✔ Build robust ETL pipelines and data workflows (SQL, PySpark, Databricks, GCP, Azure)
+✔ Build robust ETL pipelines and data workflows (SQL, PySpark, Databricks, GCP)
 
 ✔ Design interactive dashboards and BI solutions (Tableau, Power BI)
 
@@ -43,7 +43,7 @@ Designed ETL workflows processing 1TB+ data using Databricks and Azure
 
 
 🚀 Let’s Connect!
-📩 Email: athani.sh@northeastern.edu
+📩 Email: athanishreyashri@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/shreyashri-athani-087407160/
 🌐 GitHub: https://github.com/Shreyashri99
 
