@@ -1,49 +1,77 @@
-## Hi there 👋
+# Hi, I'm Shreyashri Athani 👋
 
-# Shreyashri Vishwanath Athani
-📊 Love numbers | Data analytics | Business Intelligence | IT Audit
+AI Engineer and technology risk professional with experience spanning Voice AI systems, AI governance, cybersecurity audits, and automation engineering.
 
-🔍 Passionate about transforming data into actionable insights, I specialize in data science, machine learning, and MLOps. With a background in predictive modeling, big data processing, and cloud-based analytics, I thrive at the intersection of AI and business intelligence.
+Currently building production-grade AI voice systems and AI governance workflows with experience across:
 
-# 💡 What I Do:
+* AI Agents & LLM Workflows
+* Voice AI Infrastructure
+* AI Governance & Guardrails
+* Technology Risk & Internal Audit
+* Python Automation
+* Cloud & Data Systems
 
-✔ Develop scalable ML models for forecasting and optimization (Python, PyTorch, TensorFlow)
+---
 
-✔ Build robust ETL pipelines and data workflows (SQL, PySpark, Databricks, GCP)
+## Experience
 
-✔ Design interactive dashboards and BI solutions (Tableau, Power BI)
+### Tiptop Technologies — AI Engineer (Voice AI)
 
-✔ Deploy ML solutions with MLOps best practices (Docker, Airflow, MLflow, CI/CD)
+* Built and deployed real-time AI voice agents for production customers
+* Developed conversational AI workflows integrating Twilio, Deepgram, ElevenLabs, and OpenAI APIs
+* Engineered backend-agnostic integrations connecting OpenDental (EHR) and Google Calendar
+* Implemented AI safety guardrails, validation layers, and tool-invocation logging
 
+### Goldman Sachs — Information Technology Consultant (Internal Audit)
 
-# 📌 Experience:
-🔹 Associate Consultant @ Ernst & Young LLP
+* Executed technology and cybersecurity audits covering vulnerability management and cyber resiliency
+* Developed Python automation scripts for audit workflow optimization and KPI calculations
+* Performed code assessments across Java, Python, and SQL (Apache Spark)
+* Evaluated cloud security and development lifecycle controls in AWS environments
 
-Developed predictive analytics solutions that improved forecasting accuracy by 35%
-Automated audit processes, cutting manual effort by 60%
-Designed ETL workflows processing 1TB+ data using Databricks and Azure
+### Ernst & Young LLP — Technology Associate Consultant
 
+* Conducted IT General Controls (ITGC) and application security assessments
+* Worked across APIs, DevOps pipelines, IAM, and cloud infrastructure environments
+* Built KRI dashboards and risk reporting workflows using Python and Excel
 
-# 📌 Projects:
+---
 
-🚴 Bluebike Forecasting – Built a machine learning pipeline to predict bike availability, optimizing resource allocation.
+## Technical Skills
 
-📊 PromoVision – Analyzed 3 years of marketing and sales data to derive actionable insights on ROI.
+### Programming
 
-📑 UniQbot – Developed a Retrieval-Augmented Generation (RAG) chatbot for OGS queries.
+Python • SQL
 
+### AI / LLM
 
-# 🏆 Achievements:
+LLM tool-calling • AI agents • Prompt engineering • Voice AI • Structured outputs • AI governance • Retrieval systems
 
-🎖 Entrepreneur of the Year & Exceptional Awards @ EY for leadership & innovation
+### Cloud & Data
 
-📄 Research on voice disability detection presented at INDICON-2021
+GCP • Snowflake • Apache Spark • Hadoop
 
-🎓 Teaching Assistant for Data Visualization & Analytics at Northeastern University
+### Tools
 
+Docker • Git/GitLab • JIRA • Confluence • Tableau • Excel • VBA
 
-🚀 Let’s Connect!
-📩 Email: athanishreyashri@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/shreyashri-athani-087407160/
-🌐 GitHub: https://github.com/Shreyashri99
+---
 
+## Education
+
+**Northeastern University**
+Master of Science — Data Science
+
+---
+
+## Interests
+
+AI Infrastructure • Responsible AI • AI Governance • Voice Interfaces • Cybersecurity • MLOps
+
+---
+
+## Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/shreyashri-athani-087407160/
+* GitHub: https://github.com/Shreyashri99
+* Email: [athanishreya99@gmail.com](mailto:athanishreya99@gmail.com)
