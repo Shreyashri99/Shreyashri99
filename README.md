@@ -1,6 +1,6 @@
 # Hi, I'm Shreyashri Athani 👋
 
-AI Engineer and technology risk professional with experience spanning Voice AI systems, AI governance, cybersecurity audits, and automation engineering.
+AI Engineer and technology risk professional with experience spanning Voice AI systems & governance, cybersecurity audits, and automation engineering.
 
 Currently building production-grade AI voice systems and AI governance workflows with experience across:
 
@@ -9,7 +9,6 @@ Currently building production-grade AI voice systems and AI governance workflows
 * AI Governance & Guardrails
 * Technology Risk & Internal Audit
 * Python Automation
-* Cloud & Data Systems
 
 ---
 
@@ -45,7 +44,7 @@ Python • SQL
 
 ### AI / LLM
 
-LLM tool-calling • AI agents • Prompt engineering • Voice AI • Structured outputs • AI governance • Retrieval systems
+LLM tool-calling • AI agents • Prompt engineering • Voice AI • AI governance • Retrieval systems
 
 ### Cloud & Data
 
@@ -61,12 +60,6 @@ Docker • Git/GitLab • JIRA • Confluence • Tableau • Excel • VBA
 
 **Northeastern University**
 Master of Science — Data Science
-
----
-
-## Interests
-
-AI Infrastructure • Responsible AI • AI Governance • Voice Interfaces • Cybersecurity • MLOps
 
 ---
 
